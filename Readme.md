@@ -66,3 +66,7 @@ class Enum {
   
 }
 ```
+
+### License
+MIT
+
