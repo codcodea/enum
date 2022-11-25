@@ -1,0 +1,21 @@
+Time
+["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
+['JANUARY', 'FEBRUARY', 'MARCH', 'APRIL', 'MAY', 'JUNE', 'JULY', 'AUGUST', 'SEPTEMBER', 'OCTOBER','NOVEMBER', 'DECEMBER']
+
+Directions
+["UP", "DOWN", "LEFT", "RIGHT"]
+["NORTH", "EAST", "SOUTH", "WEST"]
+
+Log Levels
+["DEBUG", "INFO", "WARN", "ERROR"]
+
+Roles
+["USER", "ADMIN"]
+
+Other
+["YES", "NO"]
+["RED", "GREEN", "BLUE"]
+["CIRCLE", "TRIANGLE", "SQUARE", "RECTANGLE"]
+["CLUBS", "DIAMONDS", "HEARTS", "SPADES"]
+["X", "Y"]
+["X", "Y", "Z"]
